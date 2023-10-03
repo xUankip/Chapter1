@@ -1,0 +1,21 @@
+            .navone:link{
+                text-decoration: underline;
+                color: antiquewhite;
+                background-color: blue;
+                font-size: 20px;
+            }
+            .navone:visited{
+                text-decoration: none;
+                color: antiquewhite;
+                background-color: blueviolet;
+            }
+            .navone:focus{
+                text-decoration: none;
+                color: black;
+                background-color: #06F;
+            }
+            .navone:active{
+                text-decoration: underline;
+                color:black;
+                background-color: azure;
+            }
