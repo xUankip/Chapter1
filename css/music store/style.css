@@ -71,6 +71,12 @@ html, body{
     width: 100%;
     margin-top: 10px;
 }
+.item{
+    float: left;
+    width: 22.9%;
+    padding: 0 8px;
+    text-align: center;
+}
 .item>img{
     width: 100%;
     vertical-align: middle;
