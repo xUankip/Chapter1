@@ -61,7 +61,7 @@ html, body{
 .row{
     padding: 0 8px;
 }
-.row::before{
+.row:before{
     content: "";
     display: table;
     clear: both;
